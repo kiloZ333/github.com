@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2024-05-26T19:03:47.134Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:126.0) Gecko/20100101 Firefox/126.0" etag="MceIfLV7sNXbB0Ws3EKb" version="24.4.6" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-26T19:11:13.473Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:126.0) Gecko/20100101 Firefox/126.0" etag="2niiBvrrsCyGt1GXx202" version="24.4.6" type="github">
   <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="Page-1">
-    <mxGraphModel dx="3218" dy="1076" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
+    <mxGraphModel dx="2535" dy="717" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="1350" value="¿Qué es? " style="ellipse;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=20;fontColor=#FFFFFF;align=center;strokeWidth=3;fillColor=#1699D3;strokeColor=none;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="250" y="254" width="120" height="120" as="geometry" />
+          <mxGeometry x="200" y="261.5" width="120" height="120" as="geometry" />
         </mxCell>
         <mxCell id="1351" value="Código Fuente" style="ellipse;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=20;fontColor=#FFFFFF;align=center;strokeWidth=3;fillColor=#F08705;strokeColor=none;gradientColor=none;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="1113.5" y="240" width="120" height="120" as="geometry" />
@@ -29,7 +29,7 @@
           <mxGeometry x="830" y="422.25" width="260" height="37.75" as="geometry" />
         </mxCell>
         <mxCell id="1358" value="Definición del problema" style="rounded=0;fillColor=#64BBE2;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="80" y="452.25" width="148.5" height="32.75" as="geometry" />
+          <mxGeometry x="-24.239999999999995" y="464" width="148.5" height="32.75" as="geometry" />
         </mxCell>
         <mxCell id="1359" style="endArrow=none;strokeWidth=6;strokeColor=#1699D3;html=1;rounded=0;" parent="1" source="1515" target="1350" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -61,35 +61,35 @@
             <mxPoint x="281" y="226.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="1367" value="El programador traduce la solución" style="rounded=0;fillColor=#64BBE2;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="500" y="371.75" width="210" height="38.25" as="geometry" />
+        <mxCell id="1367" value="El programador traduce los pasos de una solución de un problema en un lenguaje inteligible" style="rounded=0;fillColor=#64BBE2;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="285" y="396.5" width="520" height="36" as="geometry" />
         </mxCell>
         <mxCell id="1368" value="Diseño de algoritmos" style="rounded=0;fillColor=#64BBE2;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="20" y="392.5" width="130" height="40" as="geometry" />
+          <mxGeometry x="-80" y="406.5" width="130" height="40" as="geometry" />
         </mxCell>
         <mxCell id="1369" value="La codificación" style="rounded=0;fillColor=#64BBE2;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="-70" y="333.25" width="160" height="38.5" as="geometry" />
+          <mxGeometry x="-123" y="355.5" width="160" height="38.5" as="geometry" />
         </mxCell>
         <mxCell id="1370" value="La depuración" style="rounded=0;fillColor=#64BBE2;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="-130" y="270" width="130" height="40" as="geometry" />
+          <mxGeometry x="-170" y="300" width="130" height="40" as="geometry" />
         </mxCell>
         <mxCell id="1371" value="El mantenimiento del programa" style="rounded=0;fillColor=#64BBE2;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="-110" y="196.5" width="190" height="43.5" as="geometry" />
+          <mxGeometry x="-240" y="240" width="190" height="43.5" as="geometry" />
         </mxCell>
         <mxCell id="1372" value="Un proceso" style="rounded=0;fillColor=#64BBE2;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="205.5" y="155.75" width="130" height="40" as="geometry" />
+          <mxGeometry x="190" y="170.5" width="130" height="40" as="geometry" />
         </mxCell>
         <mxCell id="1373" value="Un conjunto de instrucciones" style="rounded=0;fillColor=#64BBE2;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="370" y="180" width="175.5" height="44.25" as="geometry" />
+          <mxGeometry x="350" y="195.75" width="175.5" height="44.25" as="geometry" />
         </mxCell>
         <mxCell id="1374" value="Instrucciones que indican cómo realizar una tarea " style="rounded=0;fillColor=#64BBE2;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="485" y="240" width="286.5" height="37" as="geometry" />
+          <mxGeometry x="414.96" y="263" width="286.5" height="37" as="geometry" />
         </mxCell>
         <mxCell id="1375" value="Una técnica para la solución de problemas " style="rounded=0;fillColor=#64BBE2;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="485" y="310" width="255" height="40" as="geometry" />
+          <mxGeometry x="457" y="333.25" width="255" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="1376" value="La computadora entiende y ejecuta" style="rounded=0;fillColor=#64BBE2;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="298.5" y="432.5" width="196.5" height="38.5" as="geometry" />
+        <mxCell id="1376" value="La computadora lo entiende y ejecuta el programa" style="rounded=0;fillColor=#64BBE2;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="240" y="446.5" width="306.5" height="33.5" as="geometry" />
         </mxCell>
         <mxCell id="1377" value="" style="edgeStyle=none;endArrow=none;strokeWidth=3;strokeColor=#64BBE2;html=1;rounded=0;" parent="1" source="1350" target="1376" edge="1">
           <mxGeometry x="-221.5" y="56.5" width="100" height="100" as="geometry">
@@ -362,7 +362,7 @@
           <mxGeometry x="2110" y="736.5" width="374" height="28.5" as="geometry" />
         </mxCell>
         <mxCell id="1439" value="Etapas:" style="rounded=0;fillColor=#64BBE2;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="167" y="510" width="131.5" height="33.5" as="geometry" />
+          <mxGeometry x="74" y="510" width="131.5" height="33.5" as="geometry" />
         </mxCell>
         <mxCell id="1440" value="Operadores: Símbolos para realizar operaciones. Ej: + para sumar / * para multiplicar&amp;nbsp; " style="rounded=0;fillColor=#64BBE2;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="2130" y="799" width="500" height="28.5" as="geometry" />
