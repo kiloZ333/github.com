@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-26T22:20:02.670Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:126.0) Gecko/20100101 Firefox/126.0" etag="22Onzg3HIB_SpCK8UMip" version="24.4.6" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-26T22:23:45.849Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:126.0) Gecko/20100101 Firefox/126.0" etag="AnZjiBJhe81N0ArIOF-T" version="24.4.6" type="github">
   <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="Page-1">
     <mxGraphModel dx="2678" dy="793" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
@@ -502,8 +502,8 @@
         <mxCell id="1474" value="Ej: el compilador puede garantizar que una variable X siempre se encontrará en X ubicación" style="rounded=0;fillColor=#f5af58;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="285" y="1630" width="600" height="36" as="geometry" />
         </mxCell>
-        <mxCell id="1475" value="Genera instrucciones en lenguaje máquina para acceder a X ubicación en el instante que programa fuente se refiera a la variable X" style="rounded=0;fillColor=#f5af58;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="335.5" y="1520" width="730" height="45.5" as="geometry" />
+        <mxCell id="1475" value="Genera instrucciones en lenguaje máquina para acceder a X ubicación en el instante en el que el programa fuente se refiera a la variable X" style="rounded=0;fillColor=#f5af58;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="280" y="1520" width="785.5" height="40" as="geometry" />
         </mxCell>
         <mxCell id="1480" value="" style="edgeStyle=none;endArrow=none;strokeWidth=3;strokeColor=#F5AF58;html=1;rounded=0;" parent="1" source="1355" target="1468" edge="1">
           <mxGeometry x="243.5" y="39" width="100" height="100" as="geometry">
