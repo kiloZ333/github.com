@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-26T21:58:33.243Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:126.0) Gecko/20100101 Firefox/126.0" etag="dst-N57VOk4uAdP6brf5" version="24.4.6" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-26T22:20:02.670Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:126.0) Gecko/20100101 Firefox/126.0" etag="22Onzg3HIB_SpCK8UMip" version="24.4.6" type="github">
   <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="Page-1">
     <mxGraphModel dx="2678" dy="793" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
@@ -439,13 +439,13 @@
         <mxCell id="1458" value="Depuración: proceso de encontrar y corregir errores en el código" style="rounded=0;fillColor=#a29dc5;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="1561" y="1315.5" width="390" height="38.5" as="geometry" />
         </mxCell>
-        <mxCell id="1459" value="Diagrama de flujo:representación gráfica de un algoritmo" style="rounded=0;fillColor=#a29dc5;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
+        <mxCell id="1459" value="Diagrama de flujo: representación gráfica de un algoritmo" style="rounded=0;fillColor=#a29dc5;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="2058" y="1181.75" width="370" height="48.5" as="geometry" />
         </mxCell>
-        <mxCell id="1460" value="Pseudocódigo:descripción de un algoritmo usando una combinación de lenguaje natural y notaciones matemáticas" style="rounded=0;fillColor=#a29dc5;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
+        <mxCell id="1460" value="Pseudocódigo: descripción de un algoritmo usando una combinación de lenguaje natural y notaciones matemáticas" style="rounded=0;fillColor=#a29dc5;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="2010" y="1267" width="640" height="48.5" as="geometry" />
         </mxCell>
-        <mxCell id="1461" value="Compilación:proceso de traducir el código fuente a código máquina" style="rounded=0;fillColor=#a29dc5;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
+        <mxCell id="1461" value="Compilación: proceso de traducir el código fuente a código máquina" style="rounded=0;fillColor=#a29dc5;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="1901" y="1375.5" width="399" height="38.5" as="geometry" />
         </mxCell>
         <mxCell id="1462" value="Estructura de datos: formas de organizar y almacenar datos. Ej: Arrays" style="rounded=0;fillColor=#a29dc5;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
