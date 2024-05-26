@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-05-26T19:11:13.473Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:126.0) Gecko/20100101 Firefox/126.0" etag="2niiBvrrsCyGt1GXx202" version="24.4.6" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-26T19:20:44.537Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:126.0) Gecko/20100101 Firefox/126.0" etag="kRIEELj9D7hLOoddN2Iv" version="24.4.6" type="github">
   <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="Page-1">
-    <mxGraphModel dx="2535" dy="717" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
+    <mxGraphModel dx="2762" dy="837" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -182,10 +182,10 @@
           <mxGeometry x="1250" y="210.5" width="354.75" height="38.5" as="geometry" />
         </mxCell>
         <mxCell id="1396" value="Se traduce a código máquina" style="rounded=0;fillColor=#f5af58;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="1358.5" y="261.5" width="181.5" height="38.5" as="geometry" />
+          <mxGeometry x="1400" y="263" width="181.5" height="38.5" as="geometry" />
         </mxCell>
         <mxCell id="1397" value="Se traduce mediante compiladores o intérpretes" style="rounded=0;fillColor=#f5af58;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="1260" y="323" width="270" height="37" as="geometry" />
+          <mxGeometry x="1268.25" y="318.5" width="270" height="37" as="geometry" />
         </mxCell>
         <mxCell id="1398" value="Se ejecuta directamente por la computadora " style="rounded=0;fillColor=#f5af58;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="1117.75" y="394" width="251.5" height="38.5" as="geometry" />
@@ -263,31 +263,31 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="1412" value="Década de 1950: FORTRAN (Formula Translator) y COBOL (Common Business-Oriented Language)" style="rounded=0;fillColor=#f08e81;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="2087" y="401.5" width="573" height="38.5" as="geometry" />
+          <mxGeometry x="2100" y="396.5" width="573" height="38.5" as="geometry" />
         </mxCell>
         <mxCell id="1413" value="Siglo XXI: C# (creado por Microsoft y lanzado en los 2000) " style="rounded=0;fillColor=#f08e81;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="1425.5" y="413.5" width="371" height="30" as="geometry" />
+          <mxGeometry x="1360" y="450" width="371" height="30" as="geometry" />
         </mxCell>
         <mxCell id="1414" value="Paso del tiempo = Legibilidad del código por la máquina" style="rounded=0;fillColor=#f08e81;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="1540" y="335.5" width="314.75" height="44.5" as="geometry" />
+          <mxGeometry x="1482.63" y="369" width="314.75" height="44.5" as="geometry" />
         </mxCell>
         <mxCell id="1417" value="Siglo XIX: Charles Babbage y Ada Lovelace con su &quot;Máquina Analítica&quot; y el primer algorítmo procesado por una máquina, respectivamente" style="rounded=0;fillColor=#f08e81;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="1631" y="215.5" width="774" height="33.5" as="geometry" />
+          <mxGeometry x="1696" y="215.5" width="774" height="33.5" as="geometry" />
         </mxCell>
         <mxCell id="1418" value="Comienzos del Siglo XX: Alan Turing con su &quot;Máquina de Turing&quot;" style="rounded=0;fillColor=#f08e81;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="1831" y="270" width="389" height="38.5" as="geometry" />
+          <mxGeometry x="1936" y="270" width="389" height="38.5" as="geometry" />
         </mxCell>
         <mxCell id="1419" value="WWII y PostGuerra: Desarrollo de computadoras electrónicas y ENIAC" style="rounded=0;fillColor=#f08e81;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="2046" y="336.5" width="394" height="38.5" as="geometry" />
+          <mxGeometry x="2076" y="333.25" width="394" height="38.5" as="geometry" />
         </mxCell>
         <mxCell id="1420" value="Década de 1980: C++ (creado por Bjarne Stroustrup en 1983) y Smarlltalk (creado en dicha década)" style="rounded=0;fillColor=#f08e81;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="1570" y="570" width="560" height="40" as="geometry" />
+          <mxGeometry x="1640" y="580" width="560" height="40" as="geometry" />
         </mxCell>
         <mxCell id="1421" value="Década de 1970: Pascal (creado por Niklaus Wirth en 1970) y C (creado por Dennis Ritchie en 1972)" style="rounded=0;fillColor=#f08e81;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="1910" y="520" width="579" height="33.5" as="geometry" />
+          <mxGeometry x="1936" y="520" width="579" height="33.5" as="geometry" />
         </mxCell>
         <mxCell id="1422" value="Década de 1960: ALGOL (Algorithmic Language) y LISP (List Processing) " style="rounded=0;fillColor=#f08e81;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="2056" y="460.75" width="414" height="39.25" as="geometry" />
+          <mxGeometry x="2150" y="464" width="414" height="39.25" as="geometry" />
         </mxCell>
         <mxCell id="1423" value="" style="edgeStyle=none;endArrow=none;strokeWidth=3;strokeColor=#F08E81;html=1;rounded=0;" parent="1" source="1352" target="1411" edge="1">
           <mxGeometry x="31" y="106.5" width="100" height="100" as="geometry">
@@ -434,7 +434,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="1457" value="Algoritmo: secuencia de pasos ordenados que resuelven un problema " style="rounded=0;fillColor=#a29dc5;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="1790" y="1100" width="404" height="43" as="geometry" />
+          <mxGeometry x="1820" y="1110" width="404" height="43" as="geometry" />
         </mxCell>
         <mxCell id="1458" value="Depuración: proceso de encontrar y corregir errores en el código" style="rounded=0;fillColor=#a29dc5;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="1561" y="1315.5" width="390" height="38.5" as="geometry" />
@@ -572,13 +572,13 @@
           <mxGeometry x="-269.5" y="1330.5" width="488" height="40" as="geometry" />
         </mxCell>
         <mxCell id="1497" value="La razón de ser es que el código fuente se mantiene ejecutándose directamente, lo que le permite al interpretador incluir un buen depurador a nivel fuente" style="rounded=0;fillColor=#f08e81;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="-151.47" y="1429" width="852.93" height="51" as="geometry" />
+          <mxGeometry x="-151.46" y="1414" width="852.93" height="51" as="geometry" />
         </mxCell>
         <mxCell id="1498" value="El intérprete se enfoca hacia una mayor flexibilidad y capacidad de emitir diagnósticos (error messages)" style="rounded=0;fillColor=#f08e81;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="230" y="1360" width="580" height="45.75" as="geometry" />
+          <mxGeometry x="285" y="1343.25" width="580" height="45.75" as="geometry" />
         </mxCell>
         <mxCell id="1499" value="Traductores más utilizados: Python, JavaScript, PHP " style="rounded=0;fillColor=#f08e81;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="470" y="1290" width="518" height="40.5" as="geometry" />
+          <mxGeometry x="500" y="1267" width="518" height="40.5" as="geometry" />
         </mxCell>
         <mxCell id="1500" value="Luego se detiene la traducción y luego se ejecuta la sentencia, y así sucesivamente hasta terminarse el programa" style="rounded=0;fillColor=#f08e81;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="510" y="1191.75" width="635.5" height="38.5" as="geometry" />
@@ -647,31 +647,31 @@
           <mxGeometry x="1038.5" y="678.25" width="270" height="270" as="geometry" />
         </mxCell>
         <mxCell id="1516" value="Formas de ejecución III (Tipados)" style="ellipse;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=20;fontColor=#FFFFFF;align=center;strokeWidth=3;fillColor=#736ca8;strokeColor=none;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="-10" y="726.5" width="120" height="120" as="geometry" />
+          <mxGeometry x="-10.01" y="700" width="120" height="120" as="geometry" />
         </mxCell>
         <mxCell id="1517" value="Tipado Estático y Tipado Dinámico " style="rounded=0;fillColor=#a29dc5;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="-93.11999999999999" y="630" width="286.25" height="36.5" as="geometry" />
+          <mxGeometry x="-93.13" y="610" width="286.25" height="36.5" as="geometry" />
         </mxCell>
         <mxCell id="1518" value="Tipado estático: los tipos de variables se verifican durante la compilación, para detectar los errores antes de la ejecución (compiladores)" style="rounded=0;fillColor=#a29dc5;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="128" y="700" width="762" height="40" as="geometry" />
+          <mxGeometry x="123" y="678.25" width="762" height="40" as="geometry" />
         </mxCell>
         <mxCell id="1520" value="Tipado dinámico: los tipos de variables se verifican durante la ejecución, para flexibilizar la escritura y modificación del código (intérpretes)" style="rounded=0;fillColor=#a29dc5;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="180" y="820" width="775" height="40" as="geometry" />
+          <mxGeometry x="170" y="800" width="775" height="40" as="geometry" />
         </mxCell>
         <mxCell id="1521" value="En Java, por ejemplo,los tipos de variables se deben declarar antes de ser utilizadas" style="rounded=0;fillColor=#a29dc5;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="62" y="908.25" width="480" height="41.75" as="geometry" />
+          <mxGeometry x="66.5" y="870" width="480" height="41.75" as="geometry" />
         </mxCell>
         <mxCell id="1523" value="En Python, no es necesario declarar el tipo de variables antes de utilizarlas" style="rounded=0;fillColor=#a29dc5;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="-155.01" y="973" width="535.01" height="37" as="geometry" />
+          <mxGeometry x="-217.51999999999998" y="956.5" width="535.01" height="37" as="geometry" />
         </mxCell>
         <mxCell id="1525" value="Ejemplos de tipado estático débil: C y C++ " style="rounded=0;fillColor=#a29dc5;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="-409.75" y="923" width="349.75" height="37" as="geometry" />
+          <mxGeometry x="-409.75" y="902.25" width="349.75" height="37" as="geometry" />
         </mxCell>
         <mxCell id="1526" value="Ejemplos de tipado estático fuerte: C# y Java" style="rounded=0;fillColor=#a29dc5;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="-600" y="860" width="360" height="40" as="geometry" />
+          <mxGeometry x="-593" y="846.5" width="360" height="40" as="geometry" />
         </mxCell>
         <mxCell id="1527" value="Ejemplos de tipado dinámico débil: JavaScript y PHP" style="rounded=0;fillColor=#a29dc5;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="-600" y="787.5" width="374" height="40" as="geometry" />
+          <mxGeometry x="-607" y="787" width="374" height="40" as="geometry" />
         </mxCell>
         <mxCell id="1528" value="" style="edgeStyle=none;endArrow=none;strokeWidth=3;strokeColor=#A29DC5;html=1;rounded=0;" parent="1" source="1516" target="1517" edge="1">
           <mxGeometry x="-1498" y="-303.5" width="100" height="100" as="geometry">
@@ -680,7 +680,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="1529" value="Ejemplos de tipado dinámico fuerte: Python y Ruby" style="rounded=0;fillColor=#a29dc5;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="-440" y="720" width="319.75" height="40" as="geometry" />
+          <mxGeometry x="-620" y="725" width="319.75" height="40" as="geometry" />
         </mxCell>
         <mxCell id="1530" value="" style="edgeStyle=none;endArrow=none;strokeWidth=3;strokeColor=#A29DC5;html=1;rounded=0;" parent="1" source="1516" target="1518" edge="1">
           <mxGeometry x="-1498" y="-303.5" width="100" height="100" as="geometry">
@@ -752,7 +752,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="1411" value="Década de 1990: Java (creado por Sun Microsystems en 1995) y Python (creado por Guido van Rossum) " style="rounded=0;fillColor=#f08e81;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="1270" y="485" width="581" height="35" as="geometry" />
+          <mxGeometry x="1320" y="518.5" width="581" height="35" as="geometry" />
         </mxCell>
         <mxCell id="VP8ApoqTgWprSTg_9lLy-1550" value="" style="edgeStyle=none;endArrow=none;strokeWidth=6;strokeColor=#F08705;html=1;rounded=0;" edge="1" parent="1" source="1515" target="1477">
           <mxGeometry x="181" y="226.5" width="100" height="100" as="geometry">
